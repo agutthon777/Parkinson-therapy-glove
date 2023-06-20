@@ -149,4 +149,3 @@ Motor Driver (if necessary)
 
 
 
-This is a basic project description. You may want to add more details about the glove's construction, instructions for using and adjusting the code, images of the glove, a list of parts required, and any other information you think would be useful. You could also include a section discussing the scientific basis for the project.
